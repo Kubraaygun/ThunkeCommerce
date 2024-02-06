@@ -9,8 +9,8 @@ Redux Thunk'u daha iyi anlamak ve pratik yapmak için geliştirilmiştir. Asenkr
 
 <h2>Redux Thunk Nedir?</h2>
 
-Redux Thunk, Redux için bir middleware'dir ve asenkron işlemleri yönetmek için kullanılır. Redux Thunk, Redux eylemlerinin içinde asenkron işlemleri gerçekleştirmemizi sağlar.
-Redux Thunk'un temel amacı, asenkron veri alışverişini yönetmek için kullanılan eylemleri kolaylaştırmaktır. Örneğin, bir API'den veri almak, bir veritabanına yazmak veya başka bir asenkron görevi gerçekleştirmek için Redux Thunk kullanılabilir.
+Redux Thunk, Redux için bir middleware'dir ve asenkron işlemleri yönetmek için kullanılır. Redux eylemlerinin içinde asenkron işlemleri gerçekleştirmemizi sağlar.
+Temel amacı, asenkron veri alışverişini yönetmek için kullanılan eylemleri kolaylaştırmaktır. Örneğin, bir API'den veri almak, bir veritabanına yazmak veya başka bir asenkron görevi gerçekleştirmek için Redux Thunk kullanılabilir.
 
 
 <h2> Özellikler </h2>
@@ -25,12 +25,12 @@ Redux Thunk'un temel amacı, asenkron veri alışverişini yönetmek için kulla
 
 <h2> Proje Yapısı </h2>
 <ul>
-<li><br>actions: </br>Redux eylemlerinin tanımlandığı dosyalar bulunur.</li>
-<li><br>components: </br>React bileşenlerinin yer aldığı klasördür.</li>
-<li><br>pages: </br>Ana sayfa ve sepet sayfasının yer aldığı klasördür.</li>
-<li><br>reducers: </br> Redux reducer'larının bulunduğu dosyaları içerir.</li>
-<li><br>redux: </br> Redux store ve middleware konfigürasyon dosyalarını içerir.</li>
-<li><br>services: </br>Veri sağlayıcılarının (API istekleri) tanımlandığı dosyalardır.</li>
+<li><b>actions: </b>Redux eylemlerinin tanımlandığı dosyalar bulunur.</li>
+<li><b>components: </b>React bileşenlerinin yer aldığı klasördür.</li>
+<li><b>pages: </b>Ana sayfa ve sepet sayfasının yer aldığı klasördür.</li>
+<li><b>reducers: </b> Redux reducer'larının bulunduğu dosyaları içerir.</li>
+<li><b>redux: </b> Redux store ve middleware konfigürasyon dosyalarını içerir.</li>
+<li><b>services: </b>Veri sağlayıcılarının (API istekleri) tanımlandığı dosyalardır.</li>
 </ul>
 
 
@@ -39,12 +39,12 @@ Uygulama, başlangıçta bir örnek ürün listesiyle gelmektedir. Bu ürünler,
 
 <h2> Kullanılan Teknolojiler </h2>
 <ul>
-<li><br>React: </br>Kullanıcı arayüzü oluşturmak için kullanılan bir JavaScript kütüphanesi.</li>
-<li><br>Redux: </br>Uygulama durumunun yönetilmesi için kullanılan bir state yönetim kütüphanesi.</li>
-<li><br>Redux Thunk: </br>Asenkron işlemleri Redux üzerinde yönetmek için kullanılan bir middleware.</li>
-<li><br>React Router: </br>React uygulamalarında sayfa yönlendirmesi sağlayan bir kütüphane.</li>
-<li><br>Axios:  </br>HTTP istekleri yapmak için kullanılan bir kütüphane.</li>
-<li><br>Bootstrap: </br>UI bileşenleri oluşturmak için kullanılan bir CSS framework'ü.</li>
+<li><b>React: </b>Kullanıcı arayüzü oluşturmak için kullanılan bir JavaScript kütüphanesi.</li>
+<li><b>Redux: </b>Uygulama durumunun yönetilmesi için kullanılan bir state yönetim kütüphanesi.</li>
+<li><b>Redux Thunk: </b>Asenkron işlemleri Redux üzerinde yönetmek için kullanılan bir middleware.</li>
+<li><b>React Router: </b>React uygulamalarında sayfa yönlendirmesi sağlayan bir kütüphane.</li>
+<li><b>Axios:  </b>HTTP istekleri yapmak için kullanılan bir kütüphane.</li>
+<li><b>Bootstrap: </b>UI bileşenleri oluşturmak için kullanılan bir CSS framework'ü.</li>
 </ul>
 
 
